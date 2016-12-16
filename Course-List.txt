@@ -1,0 +1,156 @@
+Android Basics: Networking
+Deploying a Hadoop Cluster
+Introduction to Virtual Reality
+VR Scenes and Objects
+Scalable Microservices with Kubernetes
+Intro to Progressive Web Apps
+Web Accessibility
+Google Maps APIs
+Technical Interview
+Android Basics: User Interface
+Android Basics: User Input
+Android Basics: Multi-screen Apps
+Android Basics: Networking
+Android Basics: Data Storage
+Problem Solving with Advanced Analytics
+Creating an Analytical Dataset
+Classification Models
+Developing Android Apps
+Advanced Android App Development
+Gradle for Android and Java
+Google Location Services on Android
+Google Analytics for Android
+Monetize Your Android App with Ads
+Add Google Maps to your Android App
+Android Performance
+Material Design for Android Developers
+Android Wear Development
+Android TV and Google Cast Development
+Android Auto Development
+Firebase Essentials For Android
+Get Your Startup Started
+Product Design
+App Monetization
+Rapid Prototyping
+App Marketing
+2D Game Development with libGDX
+How to Make a Platformer Using libGDX
+Engagement & Monetization | Mobile Games
+Client-Server Communication
+Front End Frameworks
+Offline Web Applications
+JavaScript Promises
+Building High Conversion Web Forms
+Web Tooling & Automation
+Designing RESTful APIs
+Writing READMEs
+Intro to DevOps
+Intro to HTML and CSS
+Intro to Computer Science
+Java Programming Basics
+Networking for Web Developers
+JavaScript Basics
+Linux Command Line Basics
+How to Use Git and GitHub
+Programming Foundations with Python
+Intro to iOS App Development with Swift
+Intro to Java Programming
+Intro to Relational Databases
+Full Stack Foundations
+Authentication & Authorization: OAuth
+Responsive Web Design Fundamentals
+Responsive Images
+Browser Rendering Optimization
+Developing Scalable Apps in Python
+JavaScript Design Patterns
+Learn Backbone.js
+JavaScript Testing
+Configuring Linux Web Servers
+How to Build a Startup
+Learn Swift Programming Syntax
+UIKit Fundamentals
+iOS Networking with Swift
+Grand Central Dispatch (GCD)
+iOS Persistence and Core Data
+Objective-C for Swift Developers
+Xcode Debugging
+How to Make an iOS App
+A/B Testing
+A/B Testing (Certified Course)
+Data Visualization and D3.js
+Intro to Machine Learning
+Intro to Hadoop and MapReduce
+Real-Time Analytics with Apache Storm
+Intro to Data Analysis
+Intro to Data Science
+Web Development
+Web Accessibility
+Object-Oriented JavaScript
+HTML5 Canvas
+Intro to jQuery
+Intro to AJAX
+Intro to Artificial Intelligence
+Data Analysis with R
+UX Design for Mobile Developers
+Intro to Point & Click App Development
+Developing Scalable Apps in Java
+Intro to Parallel Programming
+Intro to Descriptive Statistics
+Intro to Inferential Statistics
+Introduction to Operating Systems
+Intro to Information Security
+Advanced Operating Systems
+Computability, Complexity & Algorithms
+Knowledge-Based AI: Cognitive Systems
+Machine Learning for Trading
+High Performance Computer Architecture
+High Performance Computing
+Health Informatics in the Cloud
+CSE 8803 Special Topics: Big Data
+Computer Networking
+Computational Photography
+Software Development Process
+Software Architecture & Design
+Artificial Intelligence for Robotics
+Introduction to Computer Vision
+Educational Technology
+Reinforcement Learning
+Linear Algebra Refresher Course
+Data Wrangling with MongoDB
+Model Building and Validation
+Deep Learning
+Intro to the Design of Everyday Things
+Mobile Web Development
+Website Performance Optimization
+Make Your Own 2048
+HTML5 Game Development
+Applied Cryptography
+Intro to Statistics
+Intro Algebra Review
+College Algebra
+Visualizing Algebra
+Software Testing
+Intro to Algorithms
+Interactive 3D Graphics
+Programming Languages
+Design of Computer Programs
+Differential Equations in Action
+Software Debugging
+Intro to Theoretical Computer Science
+Machine Learning
+Intro to Physics
+Tales from the Genome
+Intro to Psychology
+OMSCS Student Orientation
+GT - Refresher - Advanced OS
+Objective-C for Swift Developers
+Dynamic Web Applications with Sinatra
+The MVC Pattern in Ruby
+Deploying Applications with Heroku
+Time Series Forecasting
+A/B Testing
+Segmentation and Clustering
+Data Visualization in Tableau
+Introduction to Health Informatics
+Android Basics: User Interface
+Android Basics: User Input
